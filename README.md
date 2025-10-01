@@ -4,4 +4,5 @@
 - 📫 How to reach me **fatayemadam@gmail.com**
 
 
-- 📫 This is my Linkedin profile : [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adam-fatayer-a6a347356)
+- 📫 This is my Linkedin profile :
+-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adam-fatayer-a6a347356)
