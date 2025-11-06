@@ -23,7 +23,7 @@ a curious and motivated developer from Palestine who loves turning ideas into co
 ### 🧰 Languages and Tools
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,git,python,react,github&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,python,react,git,github&perline=20)](https://skillicons.dev)
 <br />
 
 ---
