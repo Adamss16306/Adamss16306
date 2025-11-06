@@ -35,9 +35,18 @@ a curious and motivated developer from Palestine who loves turning ideas into co
 <table align="center">
 <tr>
   <td align="center">
-    
+    <a href="https://adamss16306.github.io/YouTube-page/">
+      <img src="https://github.com/Adamss16306/Adamss16306/blob/main/READMRE%20img/youtube.png?raw=true" width="500" alt="About Me Page">
+      <br>
+      <b>YouTube Page</b>
+    </a>
   </td>
   <td align="center">
+   <a href="https://adamss16306.github.io/dalouna-12428150">
+      <img src="https://github.com/Adamss16306/Adamss16306/blob/main/READMRE%20img/Dalouna.png?raw=true" width="500" alt="About Me Page">
+      <br>
+      <b>Dalouna Restaurant Page</b>
+    </a>
    
   </td>
 </tr>
