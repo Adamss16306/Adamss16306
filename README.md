@@ -73,4 +73,3 @@ a curious and motivated developer from Palestine who loves turning ideas into co
 
 ---
 
-⭐ *“Discipline builds developers — one line of code, one rep at a time.”*
